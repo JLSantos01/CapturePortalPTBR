@@ -6,7 +6,7 @@ Fiz a adaptação para funcionar no modelo M5stickC sem a necessidade de SD card
 Testes realizados em ambiente controlado onde somente eu e quem estava acompanhando teria a possibilidade de conectar na rede.
 
 Feito unico e exclusivo para estudo de Segurança da Informação. 
-NÃO FAÇA USO DA APLICAÇÃO PARA CAPTURA DE INFORMAÇÕES REAIS E ROUBOS DE DADOS
+NÃO FAÇA USO DA APLICAÇÃO PARA CAPTURA DE INFORMAÇÕES REAIS E ROUBOS DE DADOS,
 O USO PARA TAIS ATOS É CRIME!
 
 
